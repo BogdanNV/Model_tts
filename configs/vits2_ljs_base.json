@@ -21,8 +21,8 @@
  },
  "data": {
   "use_mel_posterior_encoder": true,
-  "training_files": "/kaggle/working/ljs_audio_text_train_filelist.txt.cleaned",
-  "validation_files": "/kaggle/working/ljs_audio_text_val_filelist.txt.cleaned",
+  "training_files": "filelists/ljs_audio_text_train_filelist.txt.cleaned",
+  "validation_files": "filelists/ljs_audio_text_val_filelist.txt.cleaned",
   "text_cleaners": [
    "russian_cleaners"
   ],

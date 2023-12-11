@@ -1,0 +1,138 @@
+/kaggle/working/phrases/speech_185.wav| Фонтаны были сказочные, братцы!
+/kaggle/working/phrases/speech_82.wav| Друзья всегда готовы помочь друг другу!
+/kaggle/working/phrases/speech_186.wav| Они всегда в моей памяти останутся!
+/kaggle/working/phrases/speech_456.wav| И кажется, наша скорость просто ошеломила кротышку!
+/kaggle/working/phrases/speech_223.wav| А то волшебная палочка теряет свою силу!
+/kaggle/working/phrases/speech_530.wav| Весело проводить время и наслаждаться жизнью!
+/kaggle/working/phrases/speech_234.wav| Такие вещи надо очень осторожно выбирать!
+/kaggle/working/phrases/speech_315.wav| Я бы сначала узнал, как она работает.
+/kaggle/working/phrases/speech_753.wav| И мы тоже должны быть экологически ответственными.
+/kaggle/working/phrases/speech_745.wav| Не заходил я туда с каким-то особым поводом.
+/kaggle/working/phrases/speech_88.wav| Малышки считали портрет самоцветик красивым.
+/kaggle/working/phrases/speech_170.wav| У меня теперь прекрасные друзья среди малышей!
+/kaggle/working/phrases/speech_459.wav| С ними столько нового! На двух ногах ходит!
+/kaggle/working/phrases/speech_19.wav| Важно делать то, что приносит радость и улыбки.
+/kaggle/working/phrases/speech_667.wav| Его можно готовить, и это хорошая еда.
+/kaggle/working/phrases/speech_492.wav| потом парашютом, а иногда и по тросу скользить!
+/kaggle/working/phrases/speech_642.wav| Лучше умываться, но если ему так удобнее.
+/kaggle/working/phrases/speech_107.wav| Честное слово, не стоит всё так серьёзно воспринимать.
+/kaggle/working/phrases/speech_176.wav| А теперь у меня получаются красивые буквы!
+/kaggle/working/phrases/speech_498.wav| чтобы дома могли тоже почувствовать себя важными.
+/kaggle/working/phrases/speech_45.wav| Особенно когда мы играем во дворе нашего домика.
+/kaggle/working/phrases/speech_43.wav| Я обожаю играть в прятки и поймайку!
+/kaggle/working/phrases/speech_586.wav| А кнопочное такси – настоящая свобода!
+/kaggle/working/phrases/speech_51.wav| Но, увы, это не помогло избежать падения.
+/kaggle/working/phrases/speech_121.wav| Но веселье не кончится, это я тебе скажу!
+/kaggle/working/phrases/speech_439.wav| Ястренький перепутал кнопки и выпил много газировки.
+/kaggle/working/phrases/speech_48.wav| Пулька и Небоська были настоящими героями!
+/kaggle/working/phrases/speech_637.wav| Всё это вращение было впечатляюще.
+/kaggle/working/phrases/speech_716.wav| Ой, братец, условия здесь!
+/kaggle/working/phrases/speech_424.wav| А может, и даже нашим новым докторам!
+/kaggle/working/phrases/speech_659.wav| Теперь машина сама поедет по этому пути.
+/kaggle/working/phrases/speech_596.wav| Полночь его разбудили хозяева квартиры, куда он случайно попал.
+/kaggle/working/phrases/speech_555.wav| Он даже имя заклёпка предложил!
+/kaggle/working/phrases/speech_211.wav| Наверное, и дальше тосковал бы у окна.
+/kaggle/working/phrases/speech_778.wav| Тогда вокруг образуется зона невесомости.
+/kaggle/working/phrases/speech_370.wav| Как будто я на большом корабле!
+/kaggle/working/phrases/speech_95.wav| Ну, ты меня знаешь! Я люблю приукрасить реальность!
+/kaggle/working/phrases/speech_344.wav| И комбайн снова готов к волшебству на полях!
+/kaggle/working/phrases/speech_727.wav| На слава дрянингу, они уже в лучшем мире!
+/kaggle/working/phrases/speech_338.wav| и собирают урожай, как настоящие фермеры!
+/kaggle/working/phrases/speech_422.wav| Она найдет какие-то подсказки в газетах!
+/kaggle/working/phrases/speech_5.wav| Но оказалось, что музыка — это не только громкость.
+/kaggle/working/phrases/speech_190.wav| Там всё можно как по волшебству! Прямо вот...
+/kaggle/working/phrases/speech_608.wav| Приключения Свистулькина всегда приносят смех!
+/kaggle/working/phrases/speech_397.wav| Она беспокойная, постоянно мораль подкладывает.
+/kaggle/working/phrases/speech_371.wav| Я взялся за это очень серьёзно и записал.
+/kaggle/working/phrases/speech_9.wav| Дождливые дни тоже могут быть весёлыми!
+/kaggle/working/phrases/speech_122.wav| Она ласково говорила, что я добрый и хороший малыш.
+/kaggle/working/phrases/speech_335.wav| Он работает и в дождь, и в жару, и даже в холод.
+/kaggle/working/phrases/speech_750.wav| И ведь сосисками гонял, чтобы увидеть, кто бодрее!
+/kaggle/working/phrases/speech_184.wav| А потом с физикой Мизикой решил показ завязать.
+/kaggle/working/phrases/speech_777.wav| Мы зароем прибор невесомости на острове в землю.
+/kaggle/working/phrases/speech_297.wav| Но магия и волшебная палочка всегда готовы в дело вступить.
+/kaggle/working/phrases/speech_754.wav| Вот здесь у нас мастерство и находчивость пригодятся.
+/kaggle/working/phrases/speech_228.wav| Это настоящая волшебная палочка!
+/kaggle/working/phrases/speech_53.wav| Я обожаю слушать звук дождя за окном!
+/kaggle/working/phrases/speech_213.wav| Все в цветочном городе любят украшать свою одежду!
+/kaggle/working/phrases/speech_632.wav| Он смотрел несколько часов, а потом сел за стол...
+/kaggle/working/phrases/speech_452.wav| Что только не происходит, когда я пожелаю!
+/kaggle/working/phrases/speech_24.wav| Попытка торопышки остановить автомобиль закончилась неудачно.
+/kaggle/working/phrases/speech_171.wav| Мы вместе смеёмся и веселимся, как никогда!
+/kaggle/working/phrases/speech_131.wav| Снежинка сказала, что я не лучше, чем они!
+/kaggle/working/phrases/speech_398.wav| Вот и сейчас меня мучает своими словами.
+/kaggle/working/phrases/speech_474.wav| Милиционеры читали их, чтобы учить нас хорошему поведению.
+/kaggle/working/phrases/speech_415.wav| А потом перешли к более длинным повестям и романам.
+/kaggle/working/phrases/speech_73.wav| Мишки с песком и смелость Знайки спасли нас!
+/kaggle/working/phrases/speech_148.wav| И мне стыдно, что мы поссорились перед отлётом!
+/kaggle/working/phrases/speech_96.wav| Ведь это так весело! А правда может быть скучной.
+/kaggle/working/phrases/speech_551.wav| Милиционеры всегда такие строгие!
+/kaggle/working/phrases/speech_16.wav| Но я никого не хотела обидеть, честное слово!
+/kaggle/working/phrases/speech_98.wav| Знай-ка, может быть, главным, а я просто веселый!
+/kaggle/working/phrases/speech_252.wav| И вот оттуда и прилипло прозвище «Пёстренький».
+/kaggle/working/phrases/speech_676.wav| Лучше куплю новую трость, да поживу с этой потерей!
+/kaggle/working/phrases/speech_62.wav| Малышки оказались очень любопытными и добрыми девочками.
+/kaggle/working/phrases/speech_55.wav| Всегда можно найти что-то интересное для занятий.
+/kaggle/working/phrases/speech_513.wav| Все здесь, чтобы узнать больше о магии домов и зданий.
+/kaggle/working/phrases/speech_547.wav| Дома, машины, даже картины на стенах.
+/kaggle/working/phrases/speech_114.wav| Сразу начну искать нужные инструменты и доски.
+/kaggle/working/phrases/speech_29.wav| Парк с красивыми цветами и огромными деревьями!
+/kaggle/working/phrases/speech_155.wav| Ну, идти, узнавать, путешествовать!
+/kaggle/working/phrases/speech_11.wav| Читаем книги и рассказываем друг другу истории.
+/kaggle/working/phrases/speech_278.wav| Да, я решил с ним покататься на чашке чая!
+/kaggle/working/phrases/speech_738.wav| После выхода из ракеты приключения продолжились.
+/kaggle/working/phrases/speech_728.wav| Наверное, чтобы сэкономить на земле и строительстве.
+/kaggle/working/phrases/speech_93.wav| Это важно, чтобы всё было красочно и радостно.
+/kaggle/working/phrases/speech_748.wav| Ой, он как исследует каждого вдоль и поперёк!
+/kaggle/working/phrases/speech_27.wav| В цветочном городе есть много замечательных мест.
+/kaggle/working/phrases/speech_134.wav| И больше не хочу дразниться и врать!
+/kaggle/working/phrases/speech_194.wav| Мы поможем друг другу, и всё будет здорово!
+/kaggle/working/phrases/speech_197.wav| Думаю, это был момент слабости с моей стороны.
+/kaggle/working/phrases/speech_538.wav| Эти артисты как волшебники меняют облик.
+/kaggle/working/phrases/speech_419.wav| И грустит из-за исчезновения листика.
+/kaggle/working/phrases/speech_714.wav| и меньшим местом для дыхания. Всё очень стильно!
+/kaggle/working/phrases/speech_432.wav| что у него случилось световое короткое замыкание?
+/kaggle/working/phrases/speech_141.wav| Но, боюсь, моя великая музыкальная одарённость...
+/kaggle/working/phrases/speech_163.wav| Ну, если бы я был стихотворец, то мог бы сказать...
+/kaggle/working/phrases/speech_620.wav| Это такая пластмасса, которая мягкая, как...
+/kaggle/working/phrases/speech_467.wav| Но они были такие серьёзные, словно не понимали шуток.
+/kaggle/working/phrases/speech_783.wav| Я хочу ещё разочек увидеть Землю!
+/kaggle/working/phrases/speech_366.wav| Он не вовремя упал и стукнул меня по голове ногой!
+/kaggle/working/phrases/speech_463.wav| что даже подумал, что настало лето вместо весны.
+/kaggle/working/phrases/speech_598.wav| Заставь меня ездить, и я тоже стал бы весёлым.
+/kaggle/working/phrases/speech_367.wav| Я, понимаешь, подумал, что он осёл, а не я!
+/kaggle/working/phrases/speech_321.wav| чтобы он мог брать всех своих друзей в путешествия.
+/kaggle/working/phrases/speech_149.wav| Мне грустно, потому что уходить отсюда сложно.
+/kaggle/working/phrases/speech_646.wav| Я, наверное, выбрал бы зелёную и синюю.
+/kaggle/working/phrases/speech_257.wav| Просто нажимает на педали, вертит руль и вперёд!
+/kaggle/working/phrases/speech_613.wav| Особенно если ты с такими шутниками, как они.
+/kaggle/working/phrases/speech_617.wav| Ах, Клёпка сразу сказал, что у нас есть дела поважнее.
+/kaggle/working/phrases/speech_684.wav| И говорят, что мы хотим проспать свою станцию!
+/kaggle/working/phrases/speech_198.wav| Вся моя драка с Пирюлькиным была напрасной!
+/kaggle/working/phrases/speech_610.wav| Но иногда он и сам удивляется, как он в них попадает.
+/kaggle/working/phrases/speech_775.wav| А я разве уже совершил три скверных поступка?
+/kaggle/working/phrases/speech_333.wav| А дуванчики, кажется, настоящие химики!
+/kaggle/working/phrases/speech_589.wav| Ох, его голова, наверное, очень болела.
+/kaggle/working/phrases/speech_712.wav| Очень оригинальное! Всё как в каталажке!
+/kaggle/working/phrases/speech_87.wav| И говорила, что ей даже лучше портрета не надо.
+/kaggle/working/phrases/speech_723.wav| Но зато деревянный чурбан всегда под рукой!
+/kaggle/working/phrases/speech_188.wav| Но, наверное, в жизни оно не так часто бывает.
+/kaggle/working/phrases/speech_84.wav| и решили сами выкатить машину из гаража.
+/kaggle/working/phrases/speech_724.wav| О, разные там были насекомые, братец!
+/kaggle/working/phrases/speech_20.wav| Когда-то Рапышка оставил автомобиль без присмотра.
+/kaggle/working/phrases/speech_390.wav| Наверное, он не понял, как я хотел ему помочь.
+/kaggle/working/phrases/speech_166.wav| О, арбузы были огромные!
+/kaggle/working/phrases/speech_79.wav| Заботиться о здоровье пациентов и соблюдении правил.
+/kaggle/working/phrases/speech_285.wav| Они упустили мой самый лучший анекдот о путешествиях?
+/kaggle/working/phrases/speech_324.wav| Ведь пульсы управления работают через воздушные волны.
+/kaggle/working/phrases/speech_616.wav| Но милиционера Свистулькина ведь на самом деле не существует!
+/kaggle/working/phrases/speech_59.wav| Она рассматривала, как она выглядит с пластырем на лбу?
+/kaggle/working/phrases/speech_277.wav| Словно цвет деревьев в лесу, только ярче!
+/kaggle/working/phrases/speech_310.wav| Может, это площадь для масштабных шахматных битв?
+/kaggle/working/phrases/speech_489.wav| Всё, чтобы мир стал веселее и интереснее!
+/kaggle/working/phrases/speech_673.wav| И вот мы все снова в пути, как настоящие друзья.
+/kaggle/working/phrases/speech_372.wav| Автомобильный путешественник Незнам Незнамович Незнайкин
+/kaggle/working/phrases/speech_18.wav| Это способ выразить себя и сделать мир ярче.
+/kaggle/working/phrases/speech_499.wav| Иногда им тоже хочется небо на ладошках держать.
+/kaggle/working/phrases/speech_505.wav| Ну, знаешь, оно как на волшебных камнях работает.
+/kaggle/working/phrases/speech_597.wav| Ну, они работали весёлыми шофёрами на конфетной фабрике.
